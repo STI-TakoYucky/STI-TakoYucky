@@ -2,7 +2,7 @@
 2nd Year BSIT Student.<br>
 Currently learning the MERN stack.<br>
 Future Fullstack Developer.<br>
-Looking for a team to collaborate with small full stack projects.<br>
+Looking for a team to collaborate with.<br>
 Check out my <a href="https://lucky-estrada.vercel.app/">Web Portfolio</a>.
 
 
