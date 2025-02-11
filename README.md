@@ -1,4 +1,4 @@
-# 👨‍💼 About Messi SUIUui
+# 👨‍💼 About Messi SUIUuis
 2nd Year BSIT Student at STI College Rosario.<br>
 Currently learning the MERN stack.<br>
 Future Fullstack Developer.<br>
