@@ -17,9 +17,7 @@
 
 <hr></hr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=STI-TakoYucky&theme=react&hide_border=false"> </p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STI-TakoYucky&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STI-TakoYucky&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=STI-TakoYucky&theme=react&hide_border=false"> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
