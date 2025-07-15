@@ -3,7 +3,7 @@
 
 <a href="https://lucky-estrada.vercel.app/"><img  src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" /></a>
 
-**Full-Stack Web Developer 💻 | MERN Stack 🟢**
+**Full-Stack Web Developer 💻 | MERN Stack 🟢 || CHEAT STREAK**
 
 <hr></hr>
 
